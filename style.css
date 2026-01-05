@@ -39,7 +39,7 @@ body {
 .logo {
   font-size:32px;
   font-weight: bold;
-  margin: 30px 0;
+  /* margin: 30px 0; */
   color: #ffdecc;
 }
 .banner-img {
